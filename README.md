@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Emeghiebo Chizoba.
 
 
-### Welcome to my profile  ![Unique visitor Count](https://profile-counter.glitch.me/{chizoba-009}/count.svg)
+### Welcome to my profile  ![](https://komarev.com/ghpvc/?username=chizoba-009&color=blueviolet)
 I am a frontend engineer with knowledge of HTML5, CSS3, JAVASCRIPT and Tailwind css. When I am not coding, you'll mst likely find me reading a new book or watching a movie.
 I love using tis knowledge to build beautiful and dynamic websites to boost client appearance on the web.
 
@@ -16,3 +16,8 @@ I love using tis knowledge to build beautiful and dynamic websites to boost clie
 Here's my Github stats:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chizoba-009&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+
+
+
