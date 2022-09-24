@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Emeghiebo Chizoba.
+### <h1 align="center">Hi there 👋 My name is Emeghiebo Chizoba.</hi>
 
 
 ### Welcome to my profile  ![](https://komarev.com/ghpvc/?username=chizoba-009&color=blueviolet)
@@ -13,9 +13,8 @@ I love using tis knowledge to build beautiful and dynamic websites to boost clie
 - ⚡ Fun fact: I love to read fantasy novels.
  
 
-Here's my Github stats:
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chizoba-009&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+### Here's my Github stats:
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=chizoba-009&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chizoba-009&" alt="peter-kimanzi" />
 
 
 
