@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi there 👋 My name is Emeghiebo Chizoba.</hi>
 <p align="center"><img align="center"src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3AF738&center=true&vCenter=true&width=435&lines=a+web+developer" /></p>
 
-### Welcome to my profile  ![](https://komarev.com/ghpvc/?username=chizoba-009&color=blueviolet)
+### Welcome to my profile
 I am a frontend engineer with knowledge of HTML5, CSS3, JAVASCRIPT and Tailwind css. When I am not coding, you'll mst likely find me reading a new book or watching a movie.
 I love using tis knowledge to build beautiful and dynamic websites to boost client appearance on the web.
 
